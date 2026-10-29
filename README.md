@@ -25,6 +25,6 @@
 <br>
 <br>
 <br>
-<a href="mailto:alaadinalynaey@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/epilogue-dark.svg"><img alt="Alaadin — let’s build something remarkable together" src="assets/epilogue-light.svg" width="100%"></picture></a>
+<a href="mailto:alaadinalynaey@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/epilogue-v2-dark.svg"><img alt="Alaadin — let’s build something remarkable together" src="assets/epilogue-v2-light.svg" width="100%"></picture></a>
 
 </div>
