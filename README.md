@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://alaadin-alynaey.site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-v5-dark.svg"><img alt="Alaadin Al-Ynaey — AI Engineer, Data Engineer, Automation Architect" src="assets/hero-v5-light.svg" width="100%"></picture></a>
+<a href="https://alaadin-alynaey.site"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-v6-dark.svg"><img alt="Alaadin Al-Ynaey — AI Engineer, Data Engineer, Automation Architect" src="assets/hero-v6-light.svg" width="100%"></picture></a>
 
 <br>
-<sub><a href="https://alaadin-alynaey.site">PORTFOLIO</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/in/alaadin-al-ynaey-179a88342">LINKEDIN</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.facebook.com/profile.php?id=100006508424600">FACEBOOK</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://alaadin-alynaey.site/blog">WRITING</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="mailto:alaadinalynaey@gmail.com">CONTACT</a></sub>
+<sub><a href="https://alaadin-alynaey.site">PORTFOLIO</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://ai-asaas.com">ASAAS</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/in/alaadin-al-ynaey-179a88342">LINKEDIN</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.facebook.com/profile.php?id=100006508424600">FACEBOOK</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://alaadin-alynaey.site/blog">WRITING</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="mailto:alaadinalynaey@gmail.com">CONTACT</a></sub>
 
 <br>
 <br>
