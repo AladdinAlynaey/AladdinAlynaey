@@ -14,7 +14,7 @@
 <br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-practice-dark.svg"><img alt="II. Practice" src="assets/h-practice-light.svg" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/practice-dark.svg"><img alt="Five disciplines: AI agents & automation, machine & deep learning, data engineering, full-stack AI, mentoring" src="assets/practice-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/practice-v2-dark.svg"><img alt="Five disciplines: AI agents & automation, machine & deep learning, data engineering, full-stack AI, mentoring" src="assets/practice-v2-light.svg" width="100%"></picture>
 
 <br>
 <br>
