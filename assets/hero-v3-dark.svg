@@ -16,8 +16,8 @@
 .pp{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.3,1.6,.5,1) var(--d,0s) both}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 
-.spin{transform-origin:280px 208px;animation:spin 240s linear infinite}
-.orbit{transform-origin:280px 208px;animation:spin 60s linear infinite}
+.spin{transform-origin:280px 208px;animation:spin 36s linear infinite}
+.orbit{transform-origin:280px 208px}
 .br{opacity:0;animation:breathe 6s ease-in-out infinite;stroke-opacity:.35}
 .nm{fill:#F4F3EF;stroke:#F4F3EF;stroke-width:.9;stroke-dasharray:1;animation:draw 2.2s cubic-bezier(.65,0,.35,1) var(--d) both,fillIn 1.6s ease calc(var(--d) + 1.4s) both}
 .thin{stroke-width:.7}
